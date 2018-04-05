@@ -31,3 +31,7 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+
+# Large Files
+testdata.manual.2009.06.14.csv
+training.1600000.processed.noemoticon.csv
